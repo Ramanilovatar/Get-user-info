@@ -1,0 +1,22 @@
+[
+    {
+        "OS": "Windows",
+        "OSVersion": "10",
+        "Browser": "Firefox",
+        "BrowserVersion": "141.0",
+        "CPU": "amd64",
+        "Resolution": "1366x768",
+        "TimeZone": "Not found",
+        "Language": "en-US"
+    },
+    {
+        "OS": "Windows",
+        "OSVersion": "10",
+        "Browser": "Firefox",
+        "BrowserVersion": "141.0",
+        "CPU": "amd64",
+        "Resolution": "1366x768",
+        "TimeZone": "Not found",
+        "Language": "en-US"
+    }
+]
